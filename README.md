@@ -1,3 +1,10 @@
+# Keyboard autocorrect
+## Data structures and Algorithm
+
+**This is the project I did for my Data structures and Algorithm class. Its purpose is to autocorrect words from a dictionary with more than 100 000 words and offer autocompletes of words that exist in that dictionary. The project is realised using the trie structure.**
+
+## Инструкции за работа
+
 За правилната работа на програмата е нужно да има речник с име dictionary.json извън папката с кода. Този речник ТРЯБВА да е в същия формат като прилòжения. 
 
 Приложеният речник е Dictionary by Merriam-Webster и той съдържа американското спелуване на английски думи. Приложеният също съдържа представки и наставки, но това не пречи на програмата. Приложеният речник да НЕ съдържа главни букви в изписването на лексемите в него (в тълкуванията им е позволено).
