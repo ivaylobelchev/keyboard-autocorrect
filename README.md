@@ -1,7 +1,7 @@
 # Keyboard autocorrect
-## Data structures and Algorithm
+## Data structures and Algorithms
 
-**This is the project I did for my Data structures and Algorithm class. Its purpose is to autocorrect words from a dictionary with more than 100 000 words and offer autocompletes of words that exist in that dictionary. The project is realised using the trie structure.**
+**This is the project I did for my Data structures and Algorithms class. Its purpose is to autocorrect words from a dictionary with more than 100 000 words and offer autocompletes of words that exist in that dictionary. The project is realised using the trie structure.**
 
 ## Инструкции за работа
 
